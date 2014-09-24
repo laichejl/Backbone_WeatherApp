@@ -1,0 +1,39 @@
+Models:
+
+Page Model
+	"backgroundColor"
+	"celcius": true
+	"welcomeMessage"
+
+Place Model
+	"country"
+	"name"
+	"displayName"
+	"long"
+	"lat"
+
+Views:
+
+Place view (small or expanded)
+Place data view
+Page view - header?
+Settings view
+Add Place view
+Remove place view
+Error or alert view
+
+App Logic
+
+Add a place
+Remove place
+Open settings
+Close settings
+retrieve data
+save settings
+save place data
+Open place detail view
+
+Routes:
+
+appurl.com/#/place/sydney
+
